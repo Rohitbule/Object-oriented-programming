@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int add(int a,int b, int c=0);
+int add(int a,int b, int c=0);  //default argument
 int main()
 {
 	int x,y,z;

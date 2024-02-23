@@ -22,3 +22,9 @@ int add(int a,int b,int c)
 {
 	return a+b+c;
 }
+
+/* 1.multiple function sharing same name can be mapped with function call on the basis 
+of arguments at compile time is known as function polymorphism or function overloading.
+2. when one function name is overloaded with different job.
+*/
+
