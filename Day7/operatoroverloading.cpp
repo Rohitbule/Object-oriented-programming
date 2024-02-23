@@ -97,5 +97,6 @@ int main()
 	c3=-c1;				//c3=c1.operator-()
 	c1.showdata();
 	c3.showdata();
+	cout<<endl;
 	
 }
