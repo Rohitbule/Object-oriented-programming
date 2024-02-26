@@ -48,7 +48,7 @@ int main()
 	p1.getage();
 }
 
-
+//Deriving a new class by inherting properties and methods of an old class is called Inheritance.
 
 
 
