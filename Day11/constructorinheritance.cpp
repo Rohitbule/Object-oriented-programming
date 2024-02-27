@@ -72,7 +72,7 @@ class empolyee:public person  //user 2
 
 int main()
 {
-	empolyee e1;  //user 1	
+  	empolyee e1;  //user 1	
 }
 
 
