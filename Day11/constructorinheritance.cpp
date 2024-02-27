@@ -75,6 +75,7 @@ int main()
   	empolyee e1;  //user 1	
 }
 
+//to initalize properties of newly created object
 
 
 
