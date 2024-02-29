@@ -24,8 +24,8 @@ class dummytest:public test
 
 int main()
 {
-//	dummytest obj;
-//	obj.f1();
+	//	dummytest obj;
+	//	obj.f1();
 	
 	test *p=new dummytest;
 	p->f1();
