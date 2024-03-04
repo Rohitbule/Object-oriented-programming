@@ -7,7 +7,6 @@ int main()
 	cout<<"enter the two number :"<<endl;
 	cin>>x>>y;
 	cout<<"sum of two number:"<<add(x,y)<<endl;
-	
 	cout<<"enter three number :"<<endl;
 	cin>>x>>y>>z;
 	cout<<"sum of three number:"<<add(x,y,z);
