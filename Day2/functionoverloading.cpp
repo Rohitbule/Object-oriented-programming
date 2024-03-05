@@ -2,6 +2,7 @@
 using namespace std;
 int add(int a,int b);
 int add(int a,int b,int c);
+
 int main()
 {
 	int x,y,z;
@@ -14,10 +15,12 @@ int main()
 	cout<<"sum of " <<x<< " and " <<y<< " and  " <<z<< " is "<< add(x,y,z);
 	return 0;
 }
+
 int add(int a,int b)
 {
 	return a+b;
 }
+
 int add(int a,int b,int c)
 {
 	return a+b+c;
